@@ -1,0 +1,41 @@
+.background {
+  background-image: url("https://i.pinimg.com/564x/87/f8/4b/87f84bcc83623c7862be6453c7a42ece.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+.striscia {
+  position: fixed-top;
+  margin: -8px;
+  height: 70px;
+  background-color: black;
+  width: 100%;
+  border-bottom: 1px solid red;
+  opacity: 0.8;
+}
+.bandiere {
+  width: 60px;
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 14px;
+  opacity: 1;
+}
+#italia {
+  margin-left: 100px;
+}
+#ACME {
+  margin-left: 400px;
+  margin-top: -45px;
+  color: white;
+}
+#opendayonline {
+  margin-top: 300px;
+  text-align: center;
+  color: white;
+  background-color: red;
+}
+#opendayinte {
+  text-align: center;
+  color: white;
+  background-color: orange;
+}
