@@ -1,12 +1,12 @@
 .background {
-  background-image: url("https://i.pinimg.com/564x/87/f8/4b/87f84bcc83623c7862be6453c7a42ece.jpg");
+  background-image: url(https://i.pinimg.com/originals/87/f8/4b/87f84bcc83623c7862be6453c7a42ece.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
   margin: 0px;
 }
 .striscia {
-  position: fixed-top;
+  position: fixed;
   height: 70px;
   background-color: black;
   width: 100%;
@@ -30,7 +30,6 @@
 }
 #opendayonline {
   margin: auto;
-  margin-top: 300px;
   text-align: center;
   color: white;
   background-color: red;
