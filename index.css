@@ -3,10 +3,10 @@
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
+  margin: 0px;
 }
 .striscia {
   position: fixed-top;
-  margin: -8px;
   height: 70px;
   background-color: black;
   width: 100%;
@@ -29,13 +29,22 @@
   color: white;
 }
 #opendayonline {
+  margin: auto;
   margin-top: 300px;
   text-align: center;
   color: white;
   background-color: red;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  padding: 1px;
+  max-width: 1200px;
 }
 #opendayinte {
+  margin: auto;
   text-align: center;
   color: white;
   background-color: orange;
+  border-radius: 15px;
+  padding: 1px;
+  max-width: 1200px;
 }
