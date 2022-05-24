@@ -5,6 +5,9 @@
   background-size: 100%;
   margin: 0px;
 }
+#font {
+  font-family: dax;
+}
 .striscia {
   position: fixed;
   height: 70px;
@@ -36,7 +39,7 @@
   border-radius: 15px;
   margin-bottom: 20px;
   padding: 1px;
-  max-width: 1200px;
+  max-width: 600px;
 }
 #opendayinte {
   margin: auto;
@@ -45,5 +48,54 @@
   background-color: orange;
   border-radius: 15px;
   padding: 1px;
-  max-width: 1200px;
+  max-width: 600px;
+}
+#offertaformativa {
+  background-color: hsl(0, 0%, 6%);
+  height: auto;
+  border: 3px solid white;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+.scuola {
+  height: 150px;
+}
+
+.material-symbols-outlined {
+  font-size: 70px !important;
+}
+
+a {
+  text-decoration: none;
+}
+.orologio {
+  height: 150px;
+}
+.soldi {
+  height: 150px;
+}
+#welcome {
+  background-color: black;
+  padding: 20px;
+  color: white;
+  height: auto;
+  border: 3px solid white;
+}
+
+h2[welcome] {
+  margin: 70px 0px 70px 0px;
+  border-left: 10px solid hsl(0, 100%, 70%);
+  padding-left: 20px;
+}
+
+#video {
+  padding: 2px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  width: 100%;
+  margin-top: 30px;
 }
