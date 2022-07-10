@@ -1,5 +1,5 @@
 .background {
-  background-image: url(https://img.besthqwallpapers.com/Uploads/5-4-2019/86263/fractals-dark-background-artwork-3d-art-nightmare.jpg);
+  background-image: url(https://a-static.besthdwallpaper.com/2021-carte-di-gelatina-3d-sfondo-colorato-di-windows-11-sfondo-2560x1600-73998_7.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
@@ -58,6 +58,7 @@
   color: white;
   text-align: center;
   padding: 30px;
+  border-radius:20px;
 }
 #offertaformativa {
   background-color: hsl(0, 0%, 6%);
@@ -127,7 +128,7 @@ a {
   border: 3px solid white;
 }
 #bgcolor1 {
-  background-color: hsl(0, 100%, 30%);
+  background-color: hsl(0, 100%, 20%);
 }
 
 #bgcolor2 {
@@ -135,7 +136,7 @@ a {
 }
 
 #bgcolor3 {
-  background-color: hsl(0, 100%, 30%);
+  background-color: hsl(0, 100%, 40%);
 }
 
 .color1 {
@@ -195,6 +196,69 @@ a {
 .testimonial {
   text-align: center;
   font-size:30px;
+}
+#durata {
+  background-color: hsl(0, 0%, 0%);
+  border-radius: 20px;
+  padding: 30px;
+  color: white;
+  height: auto;
+  border: 3px solid white;
+}
+#borse {
+  background-color: hsl(0, 0%, 0%);
+  border-radius: 20px;
+  padding: 30px;
+  color: white;
+  height: auto;
+  border: 3px solid white;
+}
+.infobot {
+  background-color: hsl(0, 100%, 30%);
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+.social {
+  width: 50px;
+  height: 50px;
+  margin: 0 10px;
+}
+#yticon {
+  width: 70px;
+  height: 70px;
+  margin: 0 10px;
+}
+.faq {
+  background-color: hsl(0, 0%, 6%);
+  border: 3px solid white;
+  border-radius: 20px;
+  margin: 20px 0;
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  transition: 0.3s ease;
+}
+.faq.active {
+  background-color:black;
+}
+.faq-title {
+  margin: 0 150px 0 0;
+  color:white;
+}
+.spancontatti{
+  color: white;
+  font-size:20px;
+  font-style:bold;
+ 
+ 
+}
+#solidcontatti {
+  margin: 10px;
+  border-left: 10px solid hsl(0, 100%, 70%);
+  padding-left: 20px;
+  color: white;
+ 
 }
 #mappa {width:100%;
   height:600px; 
